@@ -1,0 +1,37 @@
+body{
+     background: linear-gradient(to left bottom,#fdf3f5,#b5d1e2);
+     background-attachment: fixed;
+    }
+p{
+     margin-left: 45%;
+     padding: 10px;
+     color: slategrey;
+    }
+    textarea{
+          width:150 px;
+        margin-left: 30%;
+        resize: none;
+        text-align: right;
+        font-size: 18px;
+        border-radius: 5px;
+        font-family: Arial;
+         
+     }
+     button{
+         display:inline-block;
+         position: relative;
+         left: 35%;
+         margin-top: 5px;
+         cursor: pointer;
+         width: 10%;
+         border-radius: 5px;
+         border: 0;
+         padding: 12px 28px;
+         background-color: #fdf3f5;
+     }
+     h2{
+         margin-left: 43%;
+         margin-top: 5%;
+         color: slategrey;
+         font-family: Arial;
+     }
